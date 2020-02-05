@@ -2,8 +2,8 @@
 COSC 1430 Final Project
 
 run using g++
-g++ main.cpp user.h word.h difficulty.h -o hangman.out
-./hangman.out
+1. g++ main.cpp user.h -o hangman.out
+2. ./hangman.out
 
 SAVE-STATE FORMAT:
 
